@@ -1,3 +1,4 @@
+#Game - SnakeMania
 🐍 SnakeMania
 SnakeMania is a classic grid-based Snake game built using HTML, CSS, and JavaScript. The player controls a snake navigating through a bounded grid, collecting food and growing in length while avoiding collisions with the walls or its own body. The game includes sound effects, score tracking, and a persistent high score using localStorage.
 
