@@ -8,7 +8,7 @@ The game includes sound effects, score tracking, and a persistent high score usi
 
 ---
 
-## 🎮 Features
+## 🚀 Features
 
 - Smooth real-time gameplay using `requestAnimationFrame`
 - Directional control via arrow keys
@@ -21,7 +21,7 @@ The game includes sound effects, score tracking, and a persistent high score usi
 
 ---
 
-## 🚀 How to Play
+## 🎮 How to Play
 
 1. Open the game in any modern browser.
 2. Use the arrow keys to control the snake:
