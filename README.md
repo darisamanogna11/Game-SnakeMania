@@ -32,3 +32,16 @@ The game includes sound effects, score tracking, and a persistent high score usi
 3. Eat the yellow food blocks to grow and increase your score.
 4. Avoid hitting the walls or yourself.
 5. Game ends on collision – press any key to restart.
+
+## RESULT
+![image](https://github.com/user-attachments/assets/c937b80b-d921-4208-83e7-363949adfb30)
+
+
+<img width="949" alt="image" src="https://github.com/user-attachments/assets/be458163-6c25-4643-8d4a-5f444d264b21" />
+
+
+![image](https://github.com/user-attachments/assets/4b3e666c-a229-4803-b585-0a689abf18b1)
+
+
+![image](https://github.com/user-attachments/assets/9786e1d2-2119-4538-8004-fd061863df99)
+
